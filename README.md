@@ -1,4 +1,4 @@
-# A statically generated blog example using Next.js, Markdown, and TypeScript
+# A Statically Markdown, and TypeScript
 
 This is the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript.
 
@@ -37,7 +37,7 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 - [Builder.io](/examples/cms-builder-io)
 - [TinaCMS](/examples/cms-tina/)
 
-## How to use
+## How To Use 
 
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
@@ -57,6 +57,6 @@ Your blog should be up and running on [http://localhost:3000](http://localhost:3
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
-# Notes
+# No Apps
 
 `blog-starter` uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
