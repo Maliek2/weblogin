@@ -12,7 +12,7 @@ const Intro = () => {
           href="https://news.adball.tech/"
           className="underline hover:text-blue-600 duration-200 transition-colors"
         >
-          Next.js
+          News Live App 
         </a>{' '}
         and {CMS_NAME}.
       </h4>
