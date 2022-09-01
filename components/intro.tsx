@@ -7,7 +7,7 @@ const Intro = () => {
         News Blog.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using{' '}
+        GET LATEST DOWNLOADS FOR FREE {' '}
         <a
           href="https://news.adball.tech/"
           className="underline hover:text-blue-600 duration-200 transition-colors"
